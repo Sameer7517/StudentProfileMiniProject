@@ -1,0 +1,3 @@
+hello we are here to learn git and github :
+Git : Git is a Version control tool which is basically a software whihc tracks the changes ,variations time to time in our particular project .
+Github : Github is a online platform or a website where we can host ,upload ,share our project including changes ,commits in it .
